@@ -10,7 +10,7 @@ h1{
     margin: 0px;
 }
 #intro{
-    display:inline-block;
+    width:90%;
 }
 *{
     font-family: 'Times New Roman', Times, serif;
